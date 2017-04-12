@@ -19,6 +19,12 @@ tags: Node.js | Express | Angular | MongoDB
 [Udemy MEAN stack tutorial](https://blog.udemy.com/node-js-tutorial/#6)    
 tags: Node.js | Express | Angular | MongoDB
 
+[MERN stack tutorial](https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz)    
+tags: Node.js | Express | React | MongoDB | Babel | ES6
+
+[MERN stack tutorial (2)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)    
+tags: CRUD | Node.js | Express | React | MongoDB | Babel | ES6
+
 [Socket.io with Node.js](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)   
 tags: Node.js | Socket.io | Websockets
 
@@ -38,13 +44,16 @@ tags: Node.js | Babel | ES6 | Angular2 | React | Ember | Flow | TypeScript and m
 tags: Node.js | Angular | React | D3 | TypeScript and More....
 
 [Wesbo's JavaScript 30](https://javascript30.com/)
-tags: ES6 | Vanilla JS 
+tags: ES6 | Vanilla JS
 
 
 **React**   
+[TDD with React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)     
 https://facebook.github.io/react/tutorial/tutorial.html   
 https://github.com/petehunt/react-howto   
-https://github.com/facebookincubator/create-react-app   
+https://github.com/facebookincubator/create-react-app  
+http://andrewhfarmer.com/getting-started-tutorials/   
+http://buildwithreact.com/tutorial
 
 **React Native**   
 https://facebook.github.io/react-native/
