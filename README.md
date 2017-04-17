@@ -48,7 +48,7 @@ tags: ES6 | Vanilla JS
 
 
 **React**   
-[Create your first React.js App!](https://code.likeagirl.io/react-js-for-dummies-create-your-first-app-ff7564d113a1)
+[Create your first React.js App!](https://code.likeagirl.io/react-js-for-dummies-create-your-first-app-ff7564d113a1)   
 [TDD with React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)      
 https://facebook.github.io/react/tutorial/tutorial.html   
 https://github.com/petehunt/react-howto   
