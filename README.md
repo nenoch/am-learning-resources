@@ -36,7 +36,11 @@ tags: Node.js | Babel | ES6 | Express | React | Immutable | Socket.IO | Bootstra
 
 **Articles**   
 [SPA and frameworks](https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications)   
-tags: Node.js | Babel | ES6 | Angular2 | React | Ember | Flow | TypeScript and more...   
+tags: Node.js | Babel | ES6 | Angular2 | React | Ember | Flow | TypeScript and more...  
+[Understanding Redux](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)   
+tags: React | Redux  
+[7 Best Free Tutorials for Learning React and Making Web Apps](http://www.makeuseof.com/tag/best-free-tutorials-react-web-apps/)   
+tags: React and more...  
 
 **Courses**
 
@@ -71,6 +75,8 @@ https://emberjs.com/learn/
 
 [Building an Alexa Enabled Device](https://github.com/alexa/alexa-avs-sample-app)   
 tag: VUI | RaspberryPi   
+[New Alexa Skills Kit Template: Build a Trivia Skill in under an Hour](https://developer.amazon.com/blogs/post/TxDJWS16KUPVKO/New-Alexa-Skills-Kit-Template:-Build-a-Trivia-Skill-in-under-an-Hour)   
+tag: Amazon | AWS | ASK | Lamba   
 [Hackster.io Internet of Voice Challenge](https://www.hackster.io/contests/alexa-raspberry-pi)   
 tag: Amazon | VUI | Inspiration | Alexa Doc   
 
