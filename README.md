@@ -53,7 +53,11 @@ tags: ES6 | Vanilla JS
 
 **React**   
 [Create your first React.js App!](https://code.likeagirl.io/react-js-for-dummies-create-your-first-app-ff7564d113a1)   
-[TDD with React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)      
+[TDD with React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)       
+Build a Retrogame Archive with React and Redux:    
+[Part 1](https://scotch.io/tutorials/retrogames-library-with-node-react-and-redux-1-server-api-and-react-frontend)     
+[Part 2](https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-and-redux-saga-part2-redux-integration)     
+[Part 3](https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-and-redux-saga-part3-authentication)     
 https://facebook.github.io/react/tutorial/tutorial.html   
 https://github.com/petehunt/react-howto   
 https://github.com/facebookincubator/create-react-app  
@@ -87,4 +91,4 @@ tag: Amazon | VUI | Inspiration | Alexa Doc
 
 ### Extras
 
-[Make Games with Python](https://github.com/seanmtracey/Games-with-Pygame)
+[Make Games with Python](https://github.com/seanmtracey/Games-with-Pygame)   
