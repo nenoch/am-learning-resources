@@ -2,7 +2,7 @@
 
 ### Full-stack Javascript
 
-**Getting Started Tutorials**  
+#### Getting Started Tutorials
 
 [Node Girls Express workshop](https://github.com/node-girls/express-workshop)   
 tags: Node.js | Express
@@ -34,7 +34,7 @@ tags: Node.js | Socket.io | Express
 [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)   
 tags: Node.js | Babel | ES6 | Express | React | Immutable | Socket.IO | Bootstrap | Coveralls | Heroku and more...
 
-**Articles**   
+#### Articles  
 [SPA and frameworks](https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications)   
 tags: Node.js | Babel | ES6 | Angular2 | React | Ember | Flow | TypeScript and more...  
 [Understanding Redux](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)   
@@ -42,7 +42,7 @@ tags: React | Redux
 [7 Best Free Tutorials for Learning React and Making Web Apps](http://www.makeuseof.com/tag/best-free-tutorials-react-web-apps/)   
 tags: React and more...  
 
-**Courses**
+#### Courses
 
 [Egghead: JS courses](https://egghead.io/courses)   
 tags: Node.js | Angular | React | D3 | TypeScript and More....
@@ -50,15 +50,20 @@ tags: Node.js | Angular | React | D3 | TypeScript and More....
 [Wesbo's JavaScript 30](https://javascript30.com/)
 tags: ES6 | Vanilla JS
 
+#### Popular frameworks and libraries
 
 **React**   
-[Create your first React.js App!](https://code.likeagirl.io/react-js-for-dummies-create-your-first-app-ff7564d113a1)   
-[TDD with React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)       
+[Create your first React.js App!](https://code.likeagirl.io/react-js-for-dummies-create-your-first-app-ff7564d113a1)  
+TDD in React!    
+[Getting Started](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)       
+[Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)    
 Build a Retrogame Archive with React and Redux:    
 [Part 1](https://scotch.io/tutorials/retrogames-library-with-node-react-and-redux-1-server-api-and-react-frontend)     
 [Part 2](https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-and-redux-saga-part2-redux-integration)     
 [Part 3](https://scotch.io/tutorials/build-a-retrogames-archive-with-node-js-react-redux-and-redux-saga-part3-authentication)     
-https://facebook.github.io/react/tutorial/tutorial.html   
+
+More links...    
+https://facebook.github.io/react/tutorial/tutorial.html
 https://github.com/petehunt/react-howto   
 https://github.com/facebookincubator/create-react-app  
 http://andrewhfarmer.com/getting-started-tutorials/   
